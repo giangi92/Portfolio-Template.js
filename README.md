@@ -1,7 +1,7 @@
 
-# CoreUI Free React Admin Template v3
+# Portfolio Template made with react.js and CoreUI
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+Portfolio Templat is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The Portfolio Templat Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – Portfolio Templat covers them all!
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-react-admin-template.git my-project
+$ git clone https://github.com/linkoftheproject
 
 # go into app's directory
 $ cd my-project
