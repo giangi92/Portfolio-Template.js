@@ -37,19 +37,17 @@ const Dashboard = () => {
                   </tr>
                 </thead>
                 <tbody>
+
+                  
                   <tr>
                     <td className="text-center">
                       <div className="c-avatar">
-                        <img src={'avatars/1.jpg'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
+                        <img src={'software-icons/adobe-photoshop.png'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
                       </div>
                     </td>
                     <td>
-                      <div>Yiorgos Avraamu</div>
-                      <div className="small text-muted">
-                        <span>New</span> | Registered: Jan 1, 2015
-                      </div>
+                      <div>Adobe Photoshop</div>
                     </td>
-                    
                     <td>
                       <div className="clearfix">
                         <div className="float-left">
@@ -61,7 +59,6 @@ const Dashboard = () => {
                       </div>
                       <CProgress className="progress-xs" color="success" value="50" />
                     </td>
-                    
                     <td>
                       <div className="small text-muted">Last usage</div>
                       <strong>10 sec ago</strong>
@@ -70,18 +67,12 @@ const Dashboard = () => {
                   <tr>
                     <td className="text-center">
                       <div className="c-avatar">
-                        <img src={'avatars/2.jpg'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
-                        
+                        <img src={'software-icons/react.png'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
                       </div>
                     </td>
                     <td>
-                      <div>Avram Tarasios</div>
-                      <div className="small text-muted">
-
-                        <span>Recurring</span> | Registered: Jan 1, 2015
-                      </div>
+                      <div>ReactJs</div>
                     </td>
-                    
                     <td>
                       <div className="clearfix">
                         <div className="float-left">
@@ -94,10 +85,12 @@ const Dashboard = () => {
                       <CProgress className="progress-xs" color="info" value="10" />
                     </td>
                     <td>
-                      <div className="small text-muted">Last login</div>
+                      <div className="small text-muted">Last usage</div>
                       <strong>5 minutes ago</strong>
                     </td>
                   </tr>
+
+
                   <tr>
                     <td className="text-center">
                       <div className="c-avatar">
@@ -106,10 +99,7 @@ const Dashboard = () => {
                       </div>
                     </td>
                     <td>
-                      <div>Quintin Ed</div>
-                      <div className="small text-muted">
-                        <span>New</span> | Registered: Jan 1, 2015
-                      </div>
+                      <div>Another tool</div>
                     </td>
                     <td>
                       <div className="clearfix">
@@ -123,66 +113,12 @@ const Dashboard = () => {
                       <CProgress className="progress-xs" color="warning" value="74" />
                     </td>
                     <td>
-                      <div className="small text-muted">Last login</div>
+                      <div className="small text-muted">Last usage</div>
                       <strong>1 hour ago</strong>
                     </td>
                   </tr>
-                  <tr>
-                    <td className="text-center">
-                      <div className="c-avatar">
-                        <img src={'avatars/4.jpg'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
-                      </div>
-                    </td>
-                    <td>
-                      <div>Enéas Kwadwo</div>
-                      <div className="small text-muted">
-                        <span>New</span> | Registered: Jan 1, 2015
-                      </div>
-                    </td>
-                    <td>
-                      <div className="clearfix">
-                        <div className="float-left">
-                          <strong>98%</strong>
-                        </div>
-                        <div className="float-right">
-                          <small className="text-muted">Jun 11, 2015 - Jul 10, 2015</small>
-                        </div>
-                      </div>
-                      <CProgress className="progress-xs" color="danger" value="98" />
-                    </td>
-                    <td>
-                      <div className="small text-muted">Last login</div>
-                      <strong>Last month</strong>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="text-center">
-                      <div className="c-avatar">
-                        <img src={'avatars/5.jpg'} className="c-avatar-img" alt="admin@bootstrapmaster.com" />
-                      </div>
-                    </td>
-                    <td>
-                      <div>Agapetus Tadeáš</div>
-                      <div className="small text-muted">
-                        <span>New</span> | Registered: Jan 1, 2015
-                      </div>
-                    </td>
-                    <td>
-                      <div className="clearfix">
-                        <div className="float-left">
-                          <strong>22%</strong>
-                        </div>
-                        <div className="float-right">
-                          <small className="text-muted">Jun 11, 2015 - Jul 10, 2015</small>
-                        </div>
-                      </div>
-                      <CProgress className="progress-xs" color="info" value="22" />
-                    </td>
-                    <td>
-                      <div className="small text-muted">Last login</div>
-                      <strong>Last week</strong>
-                    </td>
-                  </tr>
+                  
+                  
                   <tr>
                     <td className="text-center">
                       <div className="c-avatar">
@@ -207,7 +143,7 @@ const Dashboard = () => {
                       <CProgress className="progress-xs" color="success" value="43" />
                     </td>
                     <td>
-                      <div className="small text-muted">Last login</div>
+                      <div className="small text-muted">Last usage</div>
                       <strong>Yesterday</strong>
                     </td>
                   </tr>
